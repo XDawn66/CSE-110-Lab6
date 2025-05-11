@@ -1,4 +1,4 @@
-# Lab 6
+# Lab 7
 
 ## Team member
 - Zhenyu Jiang
